@@ -10,4 +10,4 @@ This assignment was to create an interactive web visualization dashboard that ex
 - A Demographic information section that displays the following values for the selected sample: "id", "ethnicity", "gender", "age", "location", "bbtype", "wfreq"
 
 # Deployment
-This project has been deployed using GitHub Pages and can be accessed at [GitHub Pages Link](https://yourusername.github.io/your-repo-name/).
+This project has been deployed using GitHub Pages and can be accessed at [GitHub Pages Link](https://yourusername.github.io/belly-button-challenge/).
